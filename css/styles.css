@@ -164,3 +164,8 @@ hr {
   border-color: #f7f7f7;
   width: 5%;
 }
+@media screen and (max-width: 600px) {
+  .top-paragraph { font-size: 3.5rem;}
+  h1 { font-size:6.625rem;}
+  h2 { font-size: 3.5rem;}
+}
