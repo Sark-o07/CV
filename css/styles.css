@@ -165,7 +165,7 @@ hr {
   width: 5%;
 }
 @media screen and (max-width: 600px) {
-  .top-paragraph { font-size: 3.5rem;}
-  h1 { font-size:6.625rem;}
+  .top-paragraph { font-size: 5.5rem;}
+  h1 { font-size:10.625rem;}
   h2 { font-size: 3.5rem;}
 }
