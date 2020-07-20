@@ -165,10 +165,6 @@ hr {
   width: 5%;
 }
 
-@media only screen and ( max-width:768px) {
-  p{ font-size: 22px;}
-  ul{ font-size: 22px;}
-  li{ font-size: 22px;}
-}
+
   
 
