@@ -166,9 +166,9 @@ hr {
 }
 
 @media only screen and ( max-width:768px) {
-  p{ font-size: 2rem;}
-  ul{ font-size: 2rem;}
-  li{ font-size: 2rem;}
+  p{ font-size: 22px;}
+  ul{ font-size: 22px;}
+  li{ font-size: 22px;}
 }
   
 
