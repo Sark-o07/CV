@@ -18,7 +18,7 @@
 
 .top-cloud {
   position: absolute;
-  right: 600px;
+  right: 400px;
   top: 20px;
 }
 
@@ -61,7 +61,7 @@
 
 .top-paragraph {
   font-weight: normal;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
 }
 
 .contact-me {
@@ -137,7 +137,7 @@ body {
 h1 {
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
-  font-size: 5.625rem;
+  font-size: 4.5rem;
   line-height: .5;
 }
 
