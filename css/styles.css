@@ -18,13 +18,13 @@
 
 .top-cloud {
   position: absolute;
-  right: 100px;
+  right: 250px;
   top: 20px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 50px;
+  left: 350px;
   bottom: 300px;
 }
 
@@ -186,12 +186,14 @@ h2 {
 }
 
   .top-cloud {
+    width:50%;
   position: absolute;
   right: 50px;
   top: 20px;
 }
   
   .bottom-cloud {
+    width: 50%;
   position: absolute;
   left: 30px;
   bottom: 170px;
