@@ -211,20 +211,20 @@ h2 {
 }
 @media only screen and ( max-width:1024px) {
   .top-cloud {
-    width: 25%;
+    width: 12.5%;
   position: absolute;
   right: 150px;
   top: 20px;
 }
   
  .bottom-cloud {
-    width: 25%;
+    width: 12.5%;
   position: absolute;
   left: 30px;
   bottom: 170px;
 }
   .DD {
-    width: 80%;}
+    width: 100%;}
  
   .CT {
     width: 80%;}
