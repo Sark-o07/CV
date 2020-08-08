@@ -209,4 +209,27 @@ h2 {
   margin: 10px auto 60px;
     line-height: 1.5;}
 }
+@media only screen and ( max-width: 1024px){
+  .top-cloud {
+    width: 25%;
+  position: absolute;
+  right: 150px;
+  top: 20px;
+}
   
+ .bottom-cloud {
+    width: 25%;
+  position: absolute;
+  left: 30px;
+  bottom: 170px;
+}
+  .DD {
+    width: 80%;}
+ 
+  .CT {
+    width: 80%;}
+
+  .outro {
+  width: 80%;
+  margin: 10px auto 60px;
+    line-height: 1.5;}
