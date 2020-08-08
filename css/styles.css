@@ -220,16 +220,32 @@ h2 {
  .bottom-cloud {
     width: 12.5%;
   position: absolute;
-  left: 30px;
-  bottom: 210px;
+  left: 100px;
+  bottom: 450px;
 }
   .DD {
     width: 100%;}
  
   .CT {
-    width: 80%;}
+    width: 100%;}
 
   .outro {
-  width: 80%;
+  width: 100%;
   margin: 10px auto 60px;
     line-height: 1.5;}
+h1 {
+  margin: 30px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 2.625rem;
+  line-height: .5;
+}
+   .top-paragraph {
+  font-weight: normal;
+  font-size: 1rem;
+}
+  h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.0rem;
+  color: #333333;
+  padding-top: 10px;
+}
